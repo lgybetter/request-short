@@ -1,0 +1,21 @@
+{
+  "name": "request-args-log",
+  "version": "1.0.0",
+  "description": "request plugin to log args",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "request",
+    "plugin",
+    "log",
+    "args"
+  ],
+  "author": "lgybetter",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "request": "^2.81.0"
+  }
+}
